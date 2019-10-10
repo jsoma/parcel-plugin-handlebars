@@ -1,5 +1,5 @@
 {
-  "name": "@native_finance/parcel-plugin-handlebars",
+  "name": "@jsoma/parcel-plugin-handlebars",
   "version": "0.8.3",
   "description": "Parcel plugin to compile handlebars layouts templates.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/native-finance/parcel-plugin-handlebars.git"
+    "url": "git+https://github.com/jsoma/parcel-plugin-handlebars.git"
   },
   "keywords": [
     "parcel",
@@ -22,9 +22,9 @@
   "author": "Robbie Hernandez <jayrotek@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/native-finance/parcel-plugin-handlebars/issues"
+    "url": "https://github.com/jsoma/parcel-plugin-handlebars/issues"
   },
-  "homepage": "https://github.com/native-finance/parcel-plugin-handlebars#readme",
+  "homepage": "https://github.com/jsoma/parcel-plugin-handlebars#readme",
   "dependencies": {
     "front-matter": "^3.0.2",
     "globby": "^10.0.1",
